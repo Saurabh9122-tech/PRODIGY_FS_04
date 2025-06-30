@@ -32,7 +32,7 @@ This project supports **user registration**, **JWT login**, and **live chat in d
 
 ### 1. Clone the repository  
 
-git clone https://github.com/your-username/realtime-chat-app.git  
+git clone [Click Here](https://github.com/Saurabh9122-tech/PRODIGY_FS_04)  
 cd realtime-chat-app  
 ### 2. Setup backend  
 cd backend  
