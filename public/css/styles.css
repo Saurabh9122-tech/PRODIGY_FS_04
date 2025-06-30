@@ -1,0 +1,44 @@
+
+:root {
+  --primary: #1e3a8a; /* Indigo-800 */
+  --secondary: #2563eb; /* Blue-600 */
+  --bg: #f1f5f9;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Segoe UI', sans-serif; }
+body.auth-body {
+  display: grid; place-items: center; height: 100vh; background: linear-gradient(135deg, var(--primary), var(--secondary));
+}
+.auth-card {
+  background: #fff; padding: 2rem 3rem; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,.1); width: 320px;
+}
+.auth-card h2 { margin-bottom: 1rem; color: var(--primary); }
+.auth-card form { display: flex; flex-direction: column; gap: .75rem; }
+.auth-card input {
+  padding: .6rem .8rem; border: 1px solid #cbd5e1; border-radius: 8px; font-size: .95rem;
+}
+.auth-card button {
+  padding: .6rem; background: var(--secondary); color: #fff; border: none; border-radius: 8px; cursor: pointer; font-size: 1rem;
+}
+.auth-card p { margin-top: .8rem; font-size: .85rem; text-align: center; }
+.auth-card a { color: var(--secondary); text-decoration: none; }
+.msg { color: crimson; min-height: 1.2rem; }
+
+/* Chat page */
+body.chat-body { height: 100vh; display: flex; flex-direction: column; background: var(--bg); }
+header { background: var(--primary); color: #fff; padding: .8rem 1.5rem; display: flex; justify-content: space-between; align-items: center; }
+main { flex: 1; display: flex; }
+aside.rooms { width: 200px; background: #fff; border-right: 1px solid #e2e8f0; padding: 1rem; }
+aside.rooms h3 { margin-bottom: .5rem; }
+#room-list { list-style: none; margin-bottom: .75rem; }
+#room-list li { padding: .4rem; cursor: pointer; border-radius: 6px; }
+#room-list li.active, #room-list li:hover { background: var(--secondary); color: #fff; }
+#new-room { width: 100%; padding: .4rem; border: 1px solid #cbd5e1; border-radius: 6px; margin-bottom: .4rem; }
+#create-room { width: 100%; padding: .4rem; border: none; background: var(--primary); color: #fff; border-radius: 6px; cursor: pointer; }
+
+section.chat { flex: 1; display: flex; flex-direction: column; }
+#messages { list-style: none; flex: 1; overflow-y: auto; padding: 1rem; }
+#messages li { margin-bottom: .5rem; }
+#messages li span.sender { font-weight: 600; margin-right: .25rem; }
+#message-form { display: flex; padding: .6rem; background: #fff; border-top: 1px solid #e2e8f0; }
+#message-input { flex: 1; padding: .6rem; border: 1px solid #cbd5e1; border-radius: 6px; }
+#message-form button { margin-left: .5rem; padding: .6rem .9rem; background: var(--secondary); color: #fff; border: none; border-radius: 6px; cursor: pointer; }
