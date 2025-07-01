@@ -45,7 +45,9 @@ JWT_SECRET=your_secret_key_here
 npm run dev  
 ### 4. Access frontend  
 Open your browser and go to:http://localhost:5000  
-
+# Demo Video
+[![Watch Demo](https://img.youtube.com/vi/wHsrfc1sk_o/0.jpg)](https://youtu.be/wHsrfc1sk_o)  
+ [Click here to watch on YouTube »](https://youtu.be/wHsrfc1sk_o)  
 # 📸 Screenshots 
 ## 🔐 Signup Page  
 ![](https://github.com/Saurabh9122-tech/PRODIGY_FS_04/blob/main/Screenshot%202025-06-30%20204214.png)  
@@ -72,9 +74,9 @@ Created by **SAURABH KUMAR**
 For internship project or personal learning – feel free to fork, use, or extend.  
 #  About  
    #### Linkdin
-       [Sauraabh Kumar](www.linkedin.com/in/saurabh-kumar-9999s)
+[Sauraabh Kumar](www.linkedin.com/in/saurabh-kumar-9999s)
    #### Youtube 
-        [CLICK](https://www.youtube.com/channel/UCo6S7_jvZi_V_06co2yCEEA)
+[CLICK](https://www.youtube.com/channel/UCo6S7_jvZi_V_06co2yCEEA)
 
 # 📜 License  
 This project is open-source and available under the [MIT License.](https://github.com/Saurabh9122-tech/PRODIGY_FS_04/blob/main/LICENSE)  
