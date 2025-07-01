@@ -48,7 +48,8 @@ Open your browser and go to:http://localhost:5000
 
 # 📸 Screenshots 
 ## 🔐 Signup Page  
-    [signup](https://github.com/Saurabh9122-tech/PRODIGY_FS_04/blob/main/Screenshot%202025-06-30%20204214.png)
+    [![Screenshot 2025-06-30 204242](https://github.com/user-attachments/assets/9a9f860e-dc7a-4b8b-8188-ae2d9e4b3cb1)
+](https://github.com/Saurabh9122-tech/PRODIGY_FS_04/blob/main/Screenshot%202025-06-30%20204214.png)
 ## 🔐 Login Page  
     [](https://github.com/Saurabh9122-tech/PRODIGY_FS_04/blob/main/Screenshot%202025-06-30%20204242.png)
 ## 💬 Home Page  
