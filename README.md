@@ -48,11 +48,11 @@ Open your browser and go to:http://localhost:5000
 
 # 📸 Screenshots 
 ## 🔐 Signup Page  
-    ![] (https://github.com/Saurabh9122-tech/PRODIGY_FS_04/blob/main/Screenshot%202025-06-30%20204214.png)
+    ![](https://github.com/Saurabh9122-tech/PRODIGY_FS_04/blob/main/Screenshot%202025-06-30%20204214.png)
 ## 🔐 Login Page  
-    ![](https://github.com/Saurabh9122-tech/PRODIGY_FS_04/blob/main/Screenshot%202025-06-30%20204242.png?raw=true)
+    ![](https://github.com/Saurabh9122-tech/PRODIGY_FS_04/blob/main/Screenshot%202025-06-30%20204242.png)
 ## 💬 Home Page  
-    ![](https://github.com/Saurabh9122-tech/PRODIGY_FS_04/blob/main/Screenshot%202025-06-30%20204332.png?raw=true)
+    ![](https://github.com/Saurabh9122-tech/PRODIGY_FS_04/blob/main/Screenshot%202025-06-30%20204332.png)
 # 🧠 Folder Structure  
 realtime-chat-app/    
 ├── backend/  
