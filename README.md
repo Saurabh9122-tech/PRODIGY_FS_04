@@ -1,4 +1,4 @@
-# 💬 Realtime Chat App
+#  Realtime Chat App
 
 A simple and secure full-stack Realtime Chat Application built using **Node.js**, **MongoDB**, **Socket.IO**, and **Vanilla JavaScript**.  
 
