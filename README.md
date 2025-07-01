@@ -45,7 +45,7 @@ JWT_SECRET=your_secret_key_here
 npm run dev  
 ### 4. Access frontend  
 Open your browser and go to:http://localhost:5000  
-# Demo Video
+# 🎥 Demo Video
 [![Watch Demo](https://img.youtube.com/vi/wHsrfc1sk_o/0.jpg)](https://youtu.be/wHsrfc1sk_o)  
  [Click here to watch on YouTube »](https://youtu.be/wHsrfc1sk_o)  
 # 📸 Screenshots 
@@ -72,7 +72,7 @@ realtime-chat-app/
 # ✨ Credits  
 Created by **SAURABH KUMAR**  
 For internship project or personal learning – feel free to fork, use, or extend.  
-#  About  
+# 👨‍💻 About  
    #### Linkdin
 [Sauraabh Kumar](www.linkedin.com/in/saurabh-kumar-9999s)
    #### Youtube 
