@@ -37,9 +37,7 @@ cd realtime-chat-app
 ### 2. Setup backend  
 cd backend  
 npm install  
-Create a .env file in backend folder:  
-init  
-Copy code  
+#### Create a .env file in backend folder:    
 PORT=5000  
 MONGO_URI=mongodb://127.0.0.1:27017/chatapp  
 JWT_SECRET=your_secret_key_here  
@@ -48,11 +46,13 @@ npm run dev
 ### 4. Access frontend  
 Open your browser and go to:http://localhost:5000  
 
-# 📸 Screenshots  
+# 📸 Screenshots 
+## 🔐 Signup Page  
+    ![] (https://github.com/Saurabh9122-tech/PRODIGY_FS_04/blob/main/Screenshot%202025-06-30%20204214.png)
 ## 🔐 Login Page  
-
-## 💬 Chat Page  
-
+    ![](https://github.com/Saurabh9122-tech/PRODIGY_FS_04/blob/main/Screenshot%202025-06-30%20204242.png?raw=true)
+## 💬 Home Page  
+    ![](https://github.com/Saurabh9122-tech/PRODIGY_FS_04/blob/main/Screenshot%202025-06-30%20204332.png?raw=true)
 # 🧠 Folder Structure  
 realtime-chat-app/    
 ├── backend/  
@@ -72,8 +72,9 @@ Created by **SAURABH KUMAR**
 For internship project or personal learning – feel free to fork, use, or extend.  
 #  About  
    #### Linkdin
+       [Sauraabh Kumar](www.linkedin.com/in/saurabh-kumar-9999s)
    #### Youtube 
-
+        [CLICK](https://www.youtube.com/channel/UCo6S7_jvZi_V_06co2yCEEA)
 
 # 📜 License  
-This project is open-source and available under the [MIT License.]  
+This project is open-source and available under the [MIT License.](https://github.com/Saurabh9122-tech/PRODIGY_FS_04/blob/main/LICENSE)  
